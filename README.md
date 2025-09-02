@@ -3,8 +3,8 @@ This bot helps users to mass report accounts with clickbaits or objectionable ma
 
 # DISCLAIMER: I do not claim any responsibility of usage of this tool for malacious purposes ; do not use it to satisfy your enemity
 
-```
-Installation steps:
+```https://www.instagram.com/rjmusa143?igsh=YXhsNm5mcmg3dmt6
+Installation    steps:
 
 pip3 install pyautogui
 pip3 install webbot
